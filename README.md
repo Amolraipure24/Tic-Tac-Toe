@@ -41,7 +41,7 @@ Ensure you have **Node.js** and **npm** installed. Download them from [here](htt
 
 5. Open your browser and visit http://localhost:3000 to start playing the game!
 
-📝 Gameplay Instructions
+###📝 **Gameplay Instructions**
 
 🎮 Choose your symbol: Select either X or O to start the game.
 
