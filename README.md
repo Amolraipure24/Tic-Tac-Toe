@@ -44,7 +44,10 @@ Ensure you have **Node.js** and **npm** installed. Download them from [here](htt
 📝 Gameplay Instructions
 
 🎮 Choose your symbol: Select either X or O to start the game.
+
 ↔️ Take turns: Players alternate turns marking spaces on the 3x3 grid.
+
 🏆 Win the game: The first player to align three symbols horizontally, vertically, or diagonally wins!
+
 ❌ Draw: If all spaces are filled and no player wins, the game ends in a draw.
 
