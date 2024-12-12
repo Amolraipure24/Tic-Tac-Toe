@@ -34,10 +34,12 @@ Ensure you have **Node.js** and **npm** installed. Download them from [here](htt
     cd tic-tac-toe
 
 3.Install the dependencies:
+
     npm install
 
 4. Start the development server:
-     npm start
+
+    npm start
 
 5. Open your browser and visit http://localhost:3000 to start playing the game!
 
