@@ -8,7 +8,7 @@ const Home = () => {
                 <h1 className="text-center text-4xl font-bold text-white mb-6">
                     ✨{" "}
                     <span className="text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-pink-500">
-                        Tic-Tac-Toe Amol
+                        Tic-Tac-Toe Amol l;fkjsdlf
                     </span>{" "}
                     ✨
                 </h1>
